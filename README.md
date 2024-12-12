@@ -11,10 +11,8 @@
 
 
 <h3 align="left">Programming Languages:</h3>
-Java, Python, JavaScript, SQL, HTML, CSS, R, Stata
-
-<h3 align="left">Software:</h3>
 Python, Matlab, Java, HTML, CSS, STELLA, ROOT, Dr. Racket, LaTeX
+
 <h3 align="left">Applications:</h3>
 MS Office (Word, Excel, Powerpoint), Anaconda, Visual Code, Autodesk Inventor, Minitab, Eclipse,
 Overleaf, GitHub
