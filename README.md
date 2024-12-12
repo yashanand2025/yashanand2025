@@ -16,13 +16,6 @@ Java, Python, JavaScript, SQL, HTML, CSS, R, Stata
 <h3 align="left">Software:</h3>
 Spring Boot, React, Django, Mongoose, MongoDB, PostgreSQL, Node, Express, Git, GitHub
 
-<h3 align="left">GitHub Stats:</h3>
-<div align="left">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanand100&show_icons=true&locale=en&layout=compact&exclude_repo=public-vs-private-investment-India" alt="sanand100" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanand100&" alt="sanand100" /></p>
-</div>
-
 <h3 align="left">Connect with me:</h3>
 
 <a href='https://www.linkedin.com/in/shraddha-anand1/' target="_blank"><img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' height='30px' width='30px'></a>
