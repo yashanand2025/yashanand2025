@@ -5,9 +5,9 @@
 
 - My Presentations: [Presentations](https://github.com/yashanand2025/My-Presentations)
 
-- My Papers:  [Papers](https://github.com/sanand100)
+- My Papers:  [Papers](https://github.com/yashanand2025/My-Papers)
 
-- My Past Experiences: [Resume](https://github.com/sanand100/Resume/blob/main/ShraddhaAnand_Resume.pdf)
+- My Past Experiences: [Resume]()
 
 
 <h3 align="left">Programming Languages:</h3>
