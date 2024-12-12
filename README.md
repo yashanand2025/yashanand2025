@@ -14,10 +14,11 @@
 Java, Python, JavaScript, SQL, HTML, CSS, R, Stata
 
 <h3 align="left">Software:</h3>
-Spring Boot, React, Django, Mongoose, MongoDB, PostgreSQL, Node, Express, Git, GitHub
+Python, Matlab, Java, HTML, CSS, STELLA, ROOT, Dr. Racket, LaTeX
+<h3 align="left">Applications:</h3>
+MS Office (Word, Excel, Powerpoint), Anaconda, Visual Code, Autodesk Inventor, Minitab, Eclipse,
+Overleaf, GitHub
 
 <h3 align="left">Connect with me:</h3>
-
-<a href='https://www.linkedin.com/in/shraddha-anand1/' target="_blank"><img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' height='30px' width='30px'></a>
-<a href='https://github.com/sanand100' target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='30px' width='30px'></a>
-<a href="mailto:shraddhaanand2@gmail.com" target='_blank'><img src='https://cdn.pixabay.com/photo/2014/04/03/09/58/email-309491_1280.png' height='30px' width='30px'></a>
+<a href='https://github.com/yashanand2025' target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='30px' width='30px'></a>
+<a href="mailto:yanand@terpmail.umd.edu" target='_blank'><img src='https://cdn.pixabay.com/photo/2014/04/03/09/58/email-309491_1280.png' height='30px' width='30px'></a>
