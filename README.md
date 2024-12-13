@@ -7,7 +7,7 @@
 
 - My Papers:  [Papers](https://github.com/yashanand2025/My-Papers)
 
-- My Past Experiences: [Resume]()
+- My Past Experiences: [Resume](https://github.com/yashanand2025/yashanand2025/blob/main/Yash%20CV.pdf)
 
 
 <h3 align="left">Programming Languages:</h3>
