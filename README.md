@@ -7,7 +7,7 @@
 
 - My Papers:  [Papers](https://github.com/yashanand2025/My-Papers)
 
-- My Past Experiences: [Curriculum Vitae](https://github.com/yashanand2025/yashanand2025/blob/main/Yash%20CV.pdf)
+- My Past Experiences: [Curriculum Vitae](https://github.com/yashanand2025/yashanand2025/blob/68a9ccc699086d550bc5683f42e84276f8594c0b/Yash_Anand_CV.pdf)
 
 
 <h3 align="left">Programming Languages:</h3>
