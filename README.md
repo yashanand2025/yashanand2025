@@ -19,4 +19,4 @@ Overleaf, GitHub
 
 <h3 align="left">Connect with me:</h3>
 <a href='https://github.com/yashanand2025' target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='30px' width='30px'></a>
-<a href="mailto:yanand@terpmail.umd.edu" target='_blank'><img src='https://cdn.pixabay.com/photo/2014/04/03/09/58/email-309491_1280.png' height='30px' width='30px'></a>
+<a href="mailto:yanand@mit.edu" target='_blank'><img src='https://cdn.pixabay.com/photo/2014/04/03/09/58/email-309491_1280.png' height='30px' width='30px'></a>
